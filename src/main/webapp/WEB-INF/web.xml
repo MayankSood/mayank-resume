@@ -7,11 +7,6 @@
     <display-name>mayank-resume</display-name>
 
     <welcome-file-list>
-        <welcome-file>app.jsp</welcome-file>
+        <welcome-file>index.html</welcome-file>
     </welcome-file-list>
-
-    <context-param>
-        <param-name>application</param-name>
-        <param-value>MAYANK-RESUME</param-value>
-    </context-param>
 </web-app>
