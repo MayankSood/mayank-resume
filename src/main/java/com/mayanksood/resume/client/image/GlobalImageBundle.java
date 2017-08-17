@@ -12,4 +12,7 @@ public interface GlobalImageBundle extends ClientBundle {
 
     @Source("minkudp.jpg")
     ImageResource minkuProfilePic();
+
+    @Source("linkedImg.png")
+    ImageResource cardImage();
 }

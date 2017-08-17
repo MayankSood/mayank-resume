@@ -23,7 +23,7 @@ public abstract class AbstractResumePlace extends Place {
         mainTokenString = getQueryParamString(keyVal);
     }
 
-    protected abstract PlaceIdentifier getPlaceIdentifier();
+    public abstract PlaceIdentifier getPlaceIdentifier();
 
     public Map<String, String> getKeyVal() {
         if (keyVal == null) {

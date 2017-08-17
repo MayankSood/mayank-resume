@@ -59,9 +59,9 @@
         <g:HTMLPanel ui:field="statusBar" addStyleNames="{style.statusBar}">
             <g:HTMLPanel styleName="{style.title}">Mayank Sood</g:HTMLPanel>
             <div class="{style.menuContainer}">
-                <g:HTMLPanel styleName="{style.menuItem}">PORTFOLIO</g:HTMLPanel>
-                <g:HTMLPanel styleName="{style.menuItem}">ABOUT</g:HTMLPanel>
-                <g:HTMLPanel styleName="{style.menuItem}">CONTACT</g:HTMLPanel>
+                <g:HTMLPanel styleName="{style.menuItem}" ui:field="about">ABOUT</g:HTMLPanel>
+                <g:HTMLPanel styleName="{style.menuItem}" ui:field="portfolio">PORTFOLIO</g:HTMLPanel>
+                <g:HTMLPanel styleName="{style.menuItem}" ui:field="contact">CONTACT</g:HTMLPanel>
             </div>
         </g:HTMLPanel>
         <g:SimplePanel ui:field="contentPanel" addStyleNames="{style.contentPanel}"/>

@@ -3,6 +3,7 @@ package com.mayanksood.resume.client;
 import com.google.gwt.activity.shared.Activity;
 import com.google.gwt.activity.shared.ActivityMapper;
 import com.google.gwt.place.shared.Place;
+import com.mayanksood.resume.client.contact.ContactActivity;
 import com.mayanksood.resume.client.home.HomeActivity;
 
 /**
@@ -23,6 +24,8 @@ public class ResumeActivityMapper implements ActivityMapper {
             switch (resumePlace.getPlaceIdentifier()) {
                 case HOME:
                     return new HomeActivity(clientFactory);
+                case CONTACT:
+                    return new ContactActivity(clientFactory);
                 default:
                     return null;
             }

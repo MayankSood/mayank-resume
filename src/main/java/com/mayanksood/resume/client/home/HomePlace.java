@@ -23,7 +23,7 @@ public class HomePlace extends AbstractResumePlace {
         super(keyVal);
     }
 
-    protected PlaceIdentifier getPlaceIdentifier() {
+    public PlaceIdentifier getPlaceIdentifier() {
         return PlaceIdentifier.HOME;
     }
 
