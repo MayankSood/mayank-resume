@@ -6,6 +6,7 @@ import com.google.gwt.uibinder.client.UiField;
 import com.google.gwt.user.client.ui.Composite;
 import com.google.gwt.user.client.ui.HTMLPanel;
 import com.google.gwt.user.client.ui.Image;
+import com.mayanksood.resume.client.css.GlobalCssBundle;
 import com.mayanksood.resume.client.image.GlobalImageBundle;
 
 /**
@@ -20,6 +21,7 @@ public class HomeView extends Composite {
     @UiField Image image;
 
     public HomeView() {
+        GlobalCssBundle.INSTANCE.home().ensureInjected();
         initWidget(ourUiBinder.createAndBindUi(this));
         image.setUrl(GlobalImageBundle.INSTANCE.minkuProfilePic().getSafeUri());
     }

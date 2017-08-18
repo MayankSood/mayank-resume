@@ -1,0 +1,39 @@
+.mainPanel {
+    width: 100%;
+    text-align: center;
+}
+
+.hrzLine {
+    width: 500px;
+    border-top-style: solid;
+    border-width: 1px;
+    display: inline-block;
+}
+
+.title {
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+
+.contentContainer {
+    width: 900px;
+    display: flex;
+    margin: 20px auto auto;
+}
+
+.visitingCard {
+    width: 400px;
+    height: 200px;
+    border-radius: 5px;
+    display: flex;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#e0e0e0), to(#969696));
+    -webkit-box-shadow: 2px 4px 25px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 2px 4px 25px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 25px 0px rgba(0,0,0,0.75);
+}
+
+.imageView {
+    height: 136px;
+    margin: 12px;
+}

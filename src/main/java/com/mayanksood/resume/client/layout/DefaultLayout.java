@@ -12,6 +12,7 @@ import com.mayanksood.resume.client.AbstractResumePlace;
 import com.mayanksood.resume.client.ClientFactory;
 import com.mayanksood.resume.client.PlaceIdentifier;
 import com.mayanksood.resume.client.contact.ContactPlace;
+import com.mayanksood.resume.client.css.GlobalCssBundle;
 import com.mayanksood.resume.client.home.HomePlace;
 
 /**
@@ -19,15 +20,13 @@ import com.mayanksood.resume.client.home.HomePlace;
  */
 public class DefaultLayout extends Composite implements Layout {
 
-    private final ClientFactory clientFactory;
-
     @UiField SimplePanel contentPanel;
     @UiField HTMLPanel about;
     @UiField HTMLPanel contact;
     @UiField HTMLPanel portfolio;
 
     public DefaultLayout(ClientFactory clientFactory) {
-        this.clientFactory = clientFactory;
+        GlobalCssBundle.INSTANCE.layout().ensureInjected();
         initWidget(ourUiBinder.createAndBindUi(this));
         Window.addResizeHandler(event -> adjustContentPanelHeight());
 
@@ -69,6 +68,7 @@ public class DefaultLayout extends Composite implements Layout {
 
     private void adjustContentPanelHeight() {
         int windowHeight = Window.getClientHeight();
-        contentPanel.setHeight((windowHeight - 100) + "px");
+        int statusBarHeight = Window.getClientWidth() <= 584 ? 150 : 100;
+        contentPanel.setHeight((windowHeight - statusBarHeight) + "px");
     }
 }

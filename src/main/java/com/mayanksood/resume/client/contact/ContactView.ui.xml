@@ -1,53 +1,14 @@
 <ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
              xmlns:g='urn:import:com.google.gwt.user.client.ui'>
-    <ui:style>
-        .mainPanel {
-            width: 100%;
-            text-align: center;
-        }
 
-        .hrzLine {
-            width: 500px;
-            border-top-style: solid;
-            border-width: 1px;
-            display: inline-block;
-        }
-
-        .title {
-            font-size: 35px;
-            font-weight: bold;
-            margin-top: 40px;
-        }
-
-        .contentContainer {
-            width: 900px;
-            display: flex;
-            margin: 20px auto auto;
-        }
-
-        .visitingCard {
-            width: 400px;
-            height: 200px;
-            border-radius: 5px;
-            display: flex;
-            background: -webkit-gradient(linear, 0 0, 0 bottom, from(#e0e0e0), to(#969696));
-            -webkit-box-shadow: 2px 4px 25px 0px rgba(0,0,0,0.75);
-            -moz-box-shadow: 2px 4px 25px 0px rgba(0,0,0,0.75);
-            box-shadow: 2px 4px 25px 0px rgba(0,0,0,0.75);
-        }
-
-        .imageView {
-            height: 136px;
-            margin: 12px;
-        }
-    </ui:style>
+    <ui:with field="globalCss" type="com.mayanksood.resume.client.css.GlobalCssBundle" />
     <g:HTMLPanel>
-        <g:HTMLPanel addStyleNames="{style.mainPanel}">
-            <g:HTMLPanel addStyleNames="{style.title}">Contact Me</g:HTMLPanel>
-            <g:HTMLPanel addStyleNames="{style.hrzLine}"/>
+        <g:HTMLPanel addStyleNames="{globalCss.contact.mainPanel}">
+            <g:HTMLPanel addStyleNames="{globalCss.contact.title}">Contact Me</g:HTMLPanel>
+            <g:HTMLPanel addStyleNames="{globalCss.contact.hrzLine}"/>
             <div style="font-size: 20px;margin-top: 10px;">I would ♡ to help you</div>
             <div style="font-size: 12px;margin-top: 10px;">I love to create things with fun, open minded people. Feel free to say hello!</div>
-            <g:HTMLPanel addStyleNames="{style.contentContainer}">
+            <g:HTMLPanel addStyleNames="{globalCss.contact.contentContainer}">
                 <g:HTMLPanel width="400px">
                     <g:HTMLPanel>Where to find me</g:HTMLPanel>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224564.3161885932!2d76.84969492819839!3d28.424764959547492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19d582e38859%3A0x2cf5fe8e5c64b1e!2sGurugram%2C+Haryana!5e0!3m2!1sen!2sin!4v1502987523366" width="400" height="200" frameborder="0" style="border:0;border: 1px solid;border-radius: 5px;"></iframe>
@@ -55,8 +16,8 @@
                 <g:HTMLPanel width="100px"></g:HTMLPanel>
                 <g:HTMLPanel width="400px">
                     <g:HTMLPanel>Contact Details</g:HTMLPanel>
-                    <g:HTMLPanel addStyleNames="{style.visitingCard}">
-                        <g:Image ui:field="contactImage" addStyleNames="{style.imageView}"/>
+                    <g:HTMLPanel addStyleNames="{globalCss.contact.visitingCard}">
+                        <g:Image ui:field="contactImage" addStyleNames="{globalCss.contact.imageView}"/>
                         <g:HTMLPanel>
                             <table style="font-size: 12px;margin-top: 21px;text-align: left;">
                                 <tr><td>Name</td><td>Mayank Sood</td></tr>
