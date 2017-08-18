@@ -10,6 +10,7 @@
 
 .contentPanel {
     overflow: scroll;
+    padding-bottom: 5px;
 }
 
 .mainPanel {
@@ -34,16 +35,19 @@
     margin-left: auto;
     margin-top: auto;
     margin-bottom: 14px;
+    width: 350px;
 }
 
 .menuItem {
     cursor: pointer;
-    margin-right: 20px;
+    margin: 5px;
     padding: 5px;
     transition: border-bottom 0.3s ease-out;
     border-bottom: 2px solid transparent;
     font-size: 14px;
     font-weight: bold;
+    width: 100%;
+    text-align: center;
 }
 
 .menuItem:hover {

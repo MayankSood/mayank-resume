@@ -3,18 +3,24 @@
 
     <ui:with field="globalCss" type="com.mayanksood.resume.client.css.GlobalCssBundle" />
     <g:HTMLPanel>
+        <style>
+            @media (max-width: 850px) {
+                .cntct-content-container {
+                    flex-flow: column;
+                }
+            }
+        </style>
         <g:HTMLPanel addStyleNames="{globalCss.contact.mainPanel}">
             <g:HTMLPanel addStyleNames="{globalCss.contact.title}">Contact Me</g:HTMLPanel>
             <g:HTMLPanel addStyleNames="{globalCss.contact.hrzLine}"/>
             <div style="font-size: 20px;margin-top: 10px;">I would ♡ to help you</div>
             <div style="font-size: 12px;margin-top: 10px;">I love to create things with fun, open minded people. Feel free to say hello!</div>
-            <g:HTMLPanel addStyleNames="{globalCss.contact.contentContainer}">
-                <g:HTMLPanel width="400px">
+            <g:HTMLPanel addStyleNames="{globalCss.contact.contentContainer} cntct-content-container">
+                <div style="width: 400px;margin: auto;">
                     <g:HTMLPanel>Where to find me</g:HTMLPanel>
                     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224564.3161885932!2d76.84969492819839!3d28.424764959547492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19d582e38859%3A0x2cf5fe8e5c64b1e!2sGurugram%2C+Haryana!5e0!3m2!1sen!2sin!4v1502987523366" width="400" height="200" frameborder="0" style="border:0;border: 1px solid;border-radius: 5px;"></iframe>
-                </g:HTMLPanel>
-                <g:HTMLPanel width="100px"></g:HTMLPanel>
-                <g:HTMLPanel width="400px">
+                </div>
+                <div style="width: 400px;margin: auto;">
                     <g:HTMLPanel>Contact Details</g:HTMLPanel>
                     <g:HTMLPanel addStyleNames="{globalCss.contact.visitingCard}">
                         <g:Image ui:field="contactImage" addStyleNames="{globalCss.contact.imageView}"/>
@@ -28,7 +34,7 @@
                             </table>
                         </g:HTMLPanel>
                     </g:HTMLPanel>
-                </g:HTMLPanel>
+                </div>
             </g:HTMLPanel>
         </g:HTMLPanel>
     </g:HTMLPanel>

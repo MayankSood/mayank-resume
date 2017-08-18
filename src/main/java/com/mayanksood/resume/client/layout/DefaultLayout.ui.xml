@@ -3,19 +3,27 @@
     <ui:with field="globalCss" type="com.mayanksood.resume.client.css.GlobalCssBundle" />
     <g:HTMLPanel styleName="{globalCss.layout.mainPanel}">
         <style is="custom-style">
-            @media (max-width: 584px) {
+            @media (max-width: 650px) {
                 .dfl-status-bar {
                     flex-flow: column;
-                    height: 150px;
+                    height: 141px;
+                }
+                .dfl-menu-container {
+                    width: 100%;
+                    margin: none;
+                }
+                .dfl-menu-item {
+                    margin: 0px;
+                    margin-bottom: auto;
                 }
             }
         </style>
         <g:HTMLPanel ui:field="statusBar" addStyleNames="{globalCss.layout.statusBar} dfl-status-bar">
             <g:HTMLPanel styleName="{globalCss.layout.title}">Mayank Sood</g:HTMLPanel>
-            <div class="{globalCss.layout.menuContainer}">
-                <g:HTMLPanel styleName="{globalCss.layout.menuItem}" ui:field="about">ABOUT</g:HTMLPanel>
-                <g:HTMLPanel styleName="{globalCss.layout.menuItem}" ui:field="portfolio">PORTFOLIO</g:HTMLPanel>
-                <g:HTMLPanel styleName="{globalCss.layout.menuItem}" ui:field="contact">CONTACT</g:HTMLPanel>
+            <div class="{globalCss.layout.menuContainer} dfl-menu-container">
+                <g:HTMLPanel styleName="{globalCss.layout.menuItem} dfl-menu-item" ui:field="about">ABOUT</g:HTMLPanel>
+                <g:HTMLPanel styleName="{globalCss.layout.menuItem} dfl-menu-item" ui:field="portfolio">PORTFOLIO</g:HTMLPanel>
+                <g:HTMLPanel styleName="{globalCss.layout.menuItem} dfl-menu-item" ui:field="contact">CONTACT</g:HTMLPanel>
             </div>
         </g:HTMLPanel>
         <g:SimplePanel ui:field="contentPanel" addStyleNames="{globalCss.layout.contentPanel}"/>

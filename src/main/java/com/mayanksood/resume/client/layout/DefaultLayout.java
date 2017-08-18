@@ -68,7 +68,7 @@ public class DefaultLayout extends Composite implements Layout {
 
     private void adjustContentPanelHeight() {
         int windowHeight = Window.getClientHeight();
-        int statusBarHeight = Window.getClientWidth() <= 584 ? 150 : 100;
+        int statusBarHeight = Window.getClientWidth() <= 650 ? 141 : 100;
         contentPanel.setHeight((windowHeight - statusBarHeight) + "px");
     }
 }
