@@ -1,4 +1,4 @@
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -8,6 +8,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -19,6 +20,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -41,7 +43,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -51,6 +53,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -62,6 +65,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -84,7 +88,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -94,6 +98,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -105,6 +110,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -127,7 +133,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -137,6 +143,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -148,6 +155,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -170,7 +178,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -180,6 +188,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -191,6 +200,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -213,7 +223,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -223,6 +233,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -234,6 +245,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -256,7 +268,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -266,6 +278,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -277,6 +290,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -299,7 +313,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -309,6 +323,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -320,6 +335,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -342,7 +358,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -352,6 +368,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -363,6 +380,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -385,7 +403,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -395,6 +413,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -406,6 +425,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -428,7 +448,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -438,6 +458,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -449,6 +470,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -471,7 +493,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -481,6 +503,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -492,6 +515,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -514,7 +538,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -524,6 +548,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -535,6 +560,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -557,7 +583,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -567,6 +593,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -578,6 +605,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -600,7 +628,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -610,6 +638,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -621,6 +650,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -643,7 +673,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -653,6 +683,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -664,6 +695,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -686,7 +718,7 @@ user.agent safari
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -696,6 +728,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -707,6 +740,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
@@ -729,7 +763,7 @@ user.agent gecko1_8
 videoElementSupport maybe
 webApiUsage modern
 
-D42D82C7F32E9A111ABA289146700484.cache.js
+06193820F5DEE5821BCE320B09622A7B.cache.js
 ClientBundle.enableInlining true
 audioElementSupport maybe
 canvasElementSupport maybe
@@ -739,6 +773,7 @@ compiler.stackMode native
 compiler.useSourceMaps false
 compiler.useSymbolMaps false
 dragEventSupport maybe
+gwt.cspCompatModeEnabled false
 gwt.enableDebugId false
 gwt.forceBidi false
 gwt.logging.consoleHandler ENABLED
@@ -750,6 +785,7 @@ gwt.logging.simpleConsoleHandler DISABLED
 gwt.logging.simpleRemoteHandler DISABLED
 gwt.logging.systemHandler DISABLED
 gwt.suppressNonStaticFinalFieldWarnings false
+gwt.uncaughtexceptionhandler.windowonerror REPORT_IF_NO_HANDLER
 history.noDoubleEncoding false
 jre.checkedMode DISABLED
 jre.checks.api AUTO
