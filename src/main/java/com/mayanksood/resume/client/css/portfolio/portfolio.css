@@ -1,0 +1,143 @@
+.basic_styling {
+    font-family: 'Ubuntu';
+    font-weight: 400;
+}
+
+.divider {
+    background: #4f90cd;
+    height: 5px;
+    margin-top: 5px;
+}
+
+.name {
+    color: #fff;
+    font-size: 34.5px !important;
+    min-height: 34.5px;
+    line-height: 36px !important;
+}
+
+.title {
+    color: #4f90cd;
+    font-size: 18px !important;
+    min-height: 18px;
+    line-height: 19.5px !important;
+    margin-top: 10px;
+}
+
+.description {
+    font-size: 13.5px !important;
+    min-height: 13.5px;
+    line-height: 16.5px !important;
+    color: #fff;
+    margin-top: 20px;
+    width: 70%;
+}
+
+.image {
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    position: absolute;
+    right: 30px;
+    top: 18px;
+    border-style: solid;
+    border-color: #4f90cd;
+    border-width: 4.5px;
+}
+
+.work_ex {
+    color: #4f90cd;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 21px !important;
+    min-height: 21px;
+    line-height: 22.5px !important;
+    border-top: none !important;
+    border-right: none !important;
+    border-left: none !important;
+    border-bottom: 1px solid rgba(150, 150, 150, .7);
+    text-align: left !important;
+    cursor: text;
+    width: 100%;
+    min-width: 52.5px;
+    display: inline;
+    text-transform: uppercase;
+}
+
+.work_ex_title {
+    font-size: 18px !important;
+    min-height: 18px;
+    line-height: 19.5px !important;
+    font-weight: 700;
+    font-style: normal;
+    color: #000;
+    margin-top: 20px;
+}
+
+.work_ex_company {
+    font-size: 18px !important;
+    min-height: 18px;
+    line-height: 19.5px !important;
+}
+
+.work_ex_duration {
+    font-size: 12px !important;
+    min-height: 12px;
+    line-height: 13.5px !important;
+    color: #4f90cd;
+    font-style: italic;
+    display: flex;
+    margin-top: 5px;
+}
+
+.work_ex_company_detail {
+    color: #7C7C7C;
+    font-size: 12px !important;
+    min-height: 12px;
+    line-height: 13.5px !important;
+    margin-top: 5px;
+}
+
+.work_ex_project_title {
+    font-size: 12px !important;
+    min-height: 12px;
+    line-height: 13.5px !important;
+    color: #4f90cd;
+    font-style: italic;
+    margin-top: 5px;
+}
+
+.work_ex_project_details {
+    font-size: 13.5px !important;
+    min-height: 13.5px;
+    line-height: 16.5px !important;
+}
+
+.tech_tag {
+    font-size: 13.5px!important;
+    min-height: 13.5px;
+    line-height: 16.5px!important;
+    color: #FFF;
+    background: #5291CB;
+    display: inline;
+    padding: 5px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.circle_fill {
+    background: #5291CB;
+    height: 16px;
+    width: 16px;
+    margin: auto;
+    border-radius: 50%;
+}
+
+.circle_empty {
+    margin: auto;
+    border-style: solid;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    border-color: #5291CB;
+}

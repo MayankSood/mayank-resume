@@ -10,8 +10,8 @@
     <packaging>war</packaging>
 
     <properties>
-        <gwt.version>2.8.0</gwt.version>
-        <gwt.plugin.version>2.8.0</gwt.plugin.version>
+        <gwt.version>2.8.2</gwt.version>
+        <gwt.plugin.version>2.8.2</gwt.plugin.version>
         <mgwt.version>2.0.0</mgwt.version>
     </properties>
 

@@ -5,6 +5,7 @@ import com.google.gwt.activity.shared.ActivityMapper;
 import com.google.gwt.place.shared.Place;
 import com.mayanksood.resume.client.contact.ContactActivity;
 import com.mayanksood.resume.client.home.HomeActivity;
+import com.mayanksood.resume.client.portfolio.PortfolioActivity;
 
 /**
  * Created by mayank on 17/08/17.
@@ -26,6 +27,8 @@ public class ResumeActivityMapper implements ActivityMapper {
                     return new HomeActivity(clientFactory);
                 case CONTACT:
                     return new ContactActivity(clientFactory);
+                case PORTFOLIO:
+                    return new PortfolioActivity(clientFactory);
                 default:
                     return null;
             }

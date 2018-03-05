@@ -14,6 +14,7 @@ import com.mayanksood.resume.client.PlaceIdentifier;
 import com.mayanksood.resume.client.contact.ContactPlace;
 import com.mayanksood.resume.client.css.GlobalCssBundle;
 import com.mayanksood.resume.client.home.HomePlace;
+import com.mayanksood.resume.client.portfolio.PortfolioPlace;
 
 /**
  * Created by mayank on 17/08/17.
@@ -45,7 +46,7 @@ public class DefaultLayout extends Composite implements Layout {
 
         portfolio.addDomHandler(event -> {
             if (((AbstractResumePlace)clientFactory.getPlaceController().getWhere()).getPlaceIdentifier() != PlaceIdentifier.PORTFOLIO) {
-                clientFactory.getPlaceController().goTo(new HomePlace());
+                clientFactory.getPlaceController().goTo(new PortfolioPlace());
             }
         }, ClickEvent.getType());
 

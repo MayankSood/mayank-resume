@@ -6,6 +6,7 @@ import com.google.gwt.resources.client.TextResource;
 import com.mayanksood.resume.client.css.contact.ContactCss;
 import com.mayanksood.resume.client.css.home.HomeCss;
 import com.mayanksood.resume.client.css.layout.LayoutCss;
+import com.mayanksood.resume.client.css.portfolio.PortfolioCss;
 
 /**
  * Created by mayank on 18/08/17.
@@ -24,4 +25,7 @@ public interface GlobalCssBundle extends ClientBundle {
 
     @Source({"home/home.css"})
     HomeCss home();
+
+    @Source({"portfolio/portfolio.css"})
+    PortfolioCss portfolio();
 }
