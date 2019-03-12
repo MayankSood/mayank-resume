@@ -73,7 +73,7 @@
                             </a>
                         </div>
                     </div>
-                    <div style="height: 150px"></div>
+                    <div style="height: 50px"></div>
                     <div ThisIsABlock="This is Education Block RBIENT">
                         <div class="{globalCss.portfolio.work_ex}">Education</div>
                         <div class="{globalCss.portfolio.divider}"></div>
@@ -203,19 +203,23 @@
                             </a>
                         </div>
                     </div>
-                    <div style="height: 110px"></div>
+                    <div style="height: 50px"></div>
                     <div ThisIsABlock="This is Skills">
                         <div class="{globalCss.portfolio.work_ex}">Skills</div>
                         <div class="{globalCss.portfolio.divider}"></div>
                         <div style="margin-top: 15px;display: flex;flex-flow: row;flex-wrap: wrap;">
                             <div class="{globalCss.portfolio.tech_tag}">JAVA</div>
-                            <div class="{globalCss.portfolio.tech_tag}">Hibernate</div>
-                            <div class="{globalCss.portfolio.tech_tag}">Spring</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Data </div>
                             <div class="{globalCss.portfolio.tech_tag}">Spark</div>
-                            <div class="{globalCss.portfolio.tech_tag}">GWT</div>
-                            <div class="{globalCss.portfolio.tech_tag}">Active Mq</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Kafka</div>
                             <div class="{globalCss.portfolio.tech_tag}">MongoDB</div>
-                            <div class="{globalCss.portfolio.tech_tag}">Google Polymer</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Active </div>
+                            <div class="{globalCss.portfolio.tech_tag}">IOT </div>
+                            <div class="{globalCss.portfolio.tech_tag}">Spring</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Hibernate</div>
+                            <div class="{globalCss.portfolio.tech_tag}">JOOQ</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Google </div>
+                            <div class="{globalCss.portfolio.tech_tag}">GWT</div>
                             <div class="{globalCss.portfolio.tech_tag}">HTML</div>
                             <div class="{globalCss.portfolio.tech_tag}">CSS</div>
                         </div>
@@ -225,9 +229,11 @@
                         <div class="{globalCss.portfolio.work_ex}">Interests</div>
                         <div class="{globalCss.portfolio.divider}"></div>
                         <div style="margin-top: 15px;display: flex;flex-flow: row;flex-wrap: wrap;">
-                            <div class="{globalCss.portfolio.tech_tag}">Guitar</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Playing Guitar</div>
                             <div class="{globalCss.portfolio.tech_tag}">Music Production</div>
                             <div class="{globalCss.portfolio.tech_tag}">Keyboard</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Watching TV Series</div>
+                            <div class="{globalCss.portfolio.tech_tag}">Science Fiction Movies</div>
                         </div>
                     </div>
                 </div>
